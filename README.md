@@ -2,7 +2,7 @@
 
 Note: [issue 28](https://github.com/oktadeveloper/generator-jhipster-ionic/issues/28) explains why this repository exist.
 
-First two commits are result of `yo jhipster-ionic` command for a JHipster application with `oauth2` authentication type. Then third commit shows migration from InAppBrowser into BrowserTab with fallback mechanism.
+First two commits are result of `yo jhipster-ionic` command for a JHipster application with `oauth2` authentication type. Then [third commit](https://github.com/SidMorad/ionic4j-oauth2/commit/2c137318d164810bdb30760b9a02c8fda35b5a51) shows migration from InAppBrowser into BrowserTab with fallback mechanism.
 
 To see fallback mechanism, run following command:
 
