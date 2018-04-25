@@ -42,7 +42,9 @@
     "@ngx-translate/http-loader": "2.0.0",
     "ngx-webstorage": "2.0.1",
     "ng-jhipster": "0.4.5",
-    "angular-oauth2-oidc": "^3.1.4"
+    "angular-oauth2-oidc": "^3.1.4",
+    "cordova-plugin-browsertab": "^0.2.0",
+    "cordova-plugin-customurlscheme": "^4.3.0"
   },
   "devDependencies": {
     "@ionic/app-scripts": "3.1.9",
@@ -69,6 +71,10 @@
       "cordova-plugin-camera": {
         "CAMERA_USAGE_DESCRIPTION": "Need camera access to take pictures",
         "PHOTOLIBRARY_USAGE_DESCRIPTION": "Need photo library access to get pictures from there"
+      },
+      "cordova-plugin-browsertab": {},
+      "cordova-plugin-customurlscheme": {
+        "URL_SCHEME": "ionic4j"
       }
     }
   },
